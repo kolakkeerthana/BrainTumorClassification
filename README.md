@@ -7,5 +7,6 @@ Images of brain tumor with labels.
 <img width="224" alt="image" src="https://github.com/user-attachments/assets/646616f1-6a97-47f8-b5cf-96e97a87fcc4" />
 
 CNN Model
-<img width="739" alt="Screenshot 2025-01-02 at 8 48 22 PM" src="https://github.com/user-attachments/assets/554ffc28-40bf-4d44-bc37-35dcfa579d8e" />
+<img width="673" alt="Screenshot 2024-12-17 at 6 56 59 PM" src="https://github.com/user-attachments/assets/118b425b-f20e-422e-b1d0-11ecb674aea6" />
+
 
