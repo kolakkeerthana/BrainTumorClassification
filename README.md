@@ -4,9 +4,15 @@ This project successfully demonstrated the application of Convolutional Neural N
 The findings emphasize the importance of AI-driven diagnostic tools in reducing human error and improving the speed of diagnosis, particularly in resource-constrained settings. The proposed system serves as a foundational step toward integrating AI into clinical workflows, addressing challenges in medical imaging, and enhancing patient outcomes through early detection.
 
 Images of brain tumor with labels. 
+
 <img width="224" alt="image" src="https://github.com/user-attachments/assets/646616f1-6a97-47f8-b5cf-96e97a87fcc4" />
 
 CNN Model
-<img width="673" alt="Screenshot 2024-12-17 at 6 56 59 PM" src="https://github.com/user-attachments/assets/118b425b-f20e-422e-b1d0-11ecb674aea6" />
 
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/a0128797-ff08-41dc-b157-123079347dc5" />
+
+
+Model's Performance 
+
+<img width="653" alt="Screenshot 2024-12-17 at 6 52 12 PM" src="https://github.com/user-attachments/assets/6763cf3f-5a30-4eb3-8b24-528a3e1dd489" />
 
